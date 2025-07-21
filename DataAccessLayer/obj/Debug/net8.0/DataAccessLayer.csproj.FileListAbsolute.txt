@@ -1,0 +1,14 @@
+/Users/tranmy/WebApplication/ASPCore/ProductsService/DataAccessLayer/bin/Debug/net8.0/DataAccessLayer.deps.json
+/Users/tranmy/WebApplication/ASPCore/ProductsService/DataAccessLayer/bin/Debug/net8.0/DataAccessLayer.runtimeconfig.json
+/Users/tranmy/WebApplication/ASPCore/ProductsService/DataAccessLayer/bin/Debug/net8.0/DataAccessLayer.dll
+/Users/tranmy/WebApplication/ASPCore/ProductsService/DataAccessLayer/bin/Debug/net8.0/DataAccessLayer.pdb
+/Users/tranmy/WebApplication/ASPCore/ProductsService/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.csproj.AssemblyReference.cache
+/Users/tranmy/WebApplication/ASPCore/ProductsService/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tranmy/WebApplication/ASPCore/ProductsService/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.AssemblyInfoInputs.cache
+/Users/tranmy/WebApplication/ASPCore/ProductsService/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.AssemblyInfo.cs
+/Users/tranmy/WebApplication/ASPCore/ProductsService/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.csproj.CoreCompileInputs.cache
+/Users/tranmy/WebApplication/ASPCore/ProductsService/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.dll
+/Users/tranmy/WebApplication/ASPCore/ProductsService/DataAccessLayer/obj/Debug/net8.0/refint/DataAccessLayer.dll
+/Users/tranmy/WebApplication/ASPCore/ProductsService/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.pdb
+/Users/tranmy/WebApplication/ASPCore/ProductsService/DataAccessLayer/obj/Debug/net8.0/DataAccessLayer.genruntimeconfig.cache
+/Users/tranmy/WebApplication/ASPCore/ProductsService/DataAccessLayer/obj/Debug/net8.0/ref/DataAccessLayer.dll
